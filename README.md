@@ -1,6 +1,6 @@
 ## 😄 Hi I am Haley Granger (She/Her)
 
-I am developer open to full time **Software Developer** and **DevOps Engineering** roles. I enjoy building scalable and user-centered solutions.
+I am junior software engineer based in **Western MA**. I enjoy building scalable and user-centered solutions.
 
 ### 🤠 A little bit about me!
 
@@ -21,6 +21,8 @@ I am developer open to full time **Software Developer** and **DevOps Engineering
 ---
 
 ## 💼 Experience
+**Junior Software Engineer** @ Checkwriters (JUNE 2025 - Current)
+
 **Cloud Operations and Engineering Intern** @ Digital.ai (MAY 2024 - AUG 2024)
 - Worked with cloud terms to optimize release deployment pipelines
 - Designed and set up AWS infrastructure for SaaS migration
@@ -44,10 +46,11 @@ Working on gaining more experience in AWS and deeping my understanding of cloud 
 
 ---
 
-## 💡 Career Goals
+## 💡 Goals
 
-- Work with a team where I can learn from experienced engineers and help other learn as I continue to grow
+- Work with other engineers and help other learn as I continue to grow
 - Contribute to creative and innovated projects
+  
 
 ## 🤝 Let's Connect!
 
